@@ -7,3 +7,4 @@ __setitem__
 __iter__ 
 __next__
 __eq__
+__hash__
